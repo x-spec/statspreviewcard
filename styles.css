@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap);
+
+.whole{
+    display: flex;
+    flex-direction: row;    
+}
+
+.ogcard{
+    display: flex;
+    flex-direction: column;
+    background-color: #1D1247;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+    padding-top: 40px;
+    padding-left: 0px;
+    padding-right: 100px;
+    justify-content: space-evenly;
+    font-family: Roboto Slab;
+}
+
+.card{
+    padding-left: 100px;
+}
+.pic{
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    margin-right: 200px;
+}
+
+
+
+.purple{
+    color: #AC74FF;
+    font-size: 30px;
+}
+
+h2{
+    color: white;
+    font-size: 33px;
+    font-weight:1000;
+}
+
+h4{
+    font-weight: 800;
+    font-stretch: wider;
+}
+
+
+
+#para{
+    font-size: 16px;
+    
+    color: #DAE5ED;
+
+}
+
+.stat{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 70px;
+    padding-right: 0px;
+    color:white;
+    font-family: Roboto Slab;
+   
+}
+
+.stat_a{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+
+}
